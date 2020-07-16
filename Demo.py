@@ -15,7 +15,7 @@ urlquery['redirect_uri'] = 'https://localhost/callback/'
 urlquery['response_type'] = 'code'
 urlquery['state'] = '1234567890'
 urlquery['scope'] = "user-follow-read user-top-read user-read-recently-played user-library-read"
-urlquery
+
 session = requests.Session()
 p = requests.Request('GET', authurl, params=urlquery).prepare()
 print("Authorization url:",p.url)
@@ -29,7 +29,6 @@ print("Initial access token and refresh token:",resp.json())
 refreshToken = 'AQD91c6vyO5gTlO1lYUBlu_COiWtOzNZ5nlCxyvEuxb5_O6g-phehcflEbp5t6IU5yhfcfLPMbXubi3Nv_bQrfRK2iKVJOhCXKy4jxgPvG_XyL5VSbtpV9E93C_Vvit1kiQ'
 url1 = 'https://accounts.spotify.com/api/token'
 bodyparams = {'client_id':'95da2990eb16408a96a93cfa3f27555c','client_secret':'86caad313351402fb28adc216fe6a44d','grant_type': 'refresh_token', 'refresh_token': '','redirect_uri':'https://localhost/callback/','scope': 'user-follow-read user-top-read user-read-recently-played user-library-read'}
-
 bodyparams['refresh_token'] = refreshToken
 
 resp2 = requests.post(url1, data=bodyparams)
