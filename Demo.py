@@ -39,7 +39,6 @@ print("New access token:",resp2.json())
 url = 'https://api.spotify.com/v1/me/following?type=artist'
 headerAccess = {"Authorization": "Bearer " + newAccess}
 resp3 = requests.get(url, headers = headerAccess)
-print (resp3.json())
 
 with open('followingArtists.json', 'w', encoding='utf-8') as f1:
     json.dump(resp3.json(), f1, ensure_ascii=False, indent=4)
@@ -47,7 +46,6 @@ with open('followingArtists.json', 'w', encoding='utf-8') as f1:
 url1 = 'https://api.spotify.com/v1/me/tracks'
 headerAccess = {"Authorization": "Bearer " + newAccess}
 resp4 = requests.get(url1, headers = headerAccess)
-print (resp4.json())
 
 with open('savedTracks.json', 'w', encoding='utf-8') as f2:
     json.dump(resp4.json(), f2, ensure_ascii=False, indent=4)
@@ -55,7 +53,6 @@ with open('savedTracks.json', 'w', encoding='utf-8') as f2:
 url2 = 'https://api.spotify.com/v1/me/top/tracks'
 headerAccess = {"Authorization": "Bearer " + newAccess}
 resp5 = requests.get(url2, headers = headerAccess)
-print (resp5.json())
 
 with open('topTracks.json', 'w', encoding='utf-8') as f3:
     json.dump(resp5.json(), f3, ensure_ascii=False, indent=4)
