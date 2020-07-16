@@ -1,0 +1,733 @@
+{
+    "artists": {
+        "items": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/09GJU4jF4zhNfN72mTyMCi"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 9176
+                },
+                "genres": [
+                    "bass trap",
+                    "catstep",
+                    "danish electronic",
+                    "electro house",
+                    "electronic trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/09GJU4jF4zhNfN72mTyMCi",
+                "id": "09GJU4jF4zhNfN72mTyMCi",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/4a008eec8c514cb2a834e974c256e978e5197a76",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/aff33e43832f1fef4becc7931fca3430a9806c2a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/cdbabe8507fbfc80107405a0c302c5618e18679b",
+                        "width": 160
+                    }
+                ],
+                "name": "Nonsens",
+                "popularity": 57,
+                "type": "artist",
+                "uri": "spotify:artist:09GJU4jF4zhNfN72mTyMCi"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0kD7FAemiMmweaPtg0XIMq"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 3590
+                },
+                "genres": [],
+                "href": "https://api.spotify.com/v1/artists/0kD7FAemiMmweaPtg0XIMq",
+                "id": "0kD7FAemiMmweaPtg0XIMq",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273088d0090113b0605eef29bf2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02088d0090113b0605eef29bf2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851088d0090113b0605eef29bf2",
+                        "width": 64
+                    }
+                ],
+                "name": "The Voyagers",
+                "popularity": 28,
+                "type": "artist",
+                "uri": "spotify:artist:0kD7FAemiMmweaPtg0XIMq"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 1014908
+                },
+                "genres": [
+                    "edm",
+                    "electro house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1HxJeLhIuegM3KgvPn8sTa",
+                "id": "1HxJeLhIuegM3KgvPn8sTa",
+                "images": [
+                    {
+                        "height": 1000,
+                        "url": "https://i.scdn.co/image/065e6f73d82db92ddaecf1ca779e833c274da17f",
+                        "width": 1000
+                    },
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/3aba134d7e2187b83db5156eafd2942808b9a19f",
+                        "width": 640
+                    },
+                    {
+                        "height": 200,
+                        "url": "https://i.scdn.co/image/b100e949fd911b3e1cb0210fabe0fc305adcbadc",
+                        "width": 200
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/897c9096361f04433f6b076bfcedc3faab9ca6e5",
+                        "width": 64
+                    }
+                ],
+                "name": "Jack Ü",
+                "popularity": 67,
+                "type": "artist",
+                "uri": "spotify:artist:1HxJeLhIuegM3KgvPn8sTa"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 26590
+                },
+                "genres": [
+                    "electronic trap",
+                    "vapor twitch"
+                ],
+                "href": "https://api.spotify.com/v1/artists/1VBAKMui4zm5MnBWNn3NbL",
+                "id": "1VBAKMui4zm5MnBWNn3NbL",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/5fc77a8263fa47996b419468f156bdcc0b9b5081",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/8c22d44917355e9068e7dfb7dae248acf8450370",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/dbb9a1976e09ca9b869981a14cc8f4b5ed29b70c",
+                        "width": 160
+                    }
+                ],
+                "name": "Devault",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:1VBAKMui4zm5MnBWNn3NbL"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 26534519
+                },
+                "genres": [
+                    "dfw rap",
+                    "melodic rap",
+                    "rap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+                "id": "246dkjvS1zLTtiykXe5h60",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/93fec27f9aac86526b9010e882037afbda4e3d5f",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/9040899d5660920fdf7efeb7aa2cc4e6d86f86f6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/d15a5ffb3d22adabd09a749e09e846f527ab5a94",
+                        "width": 160
+                    }
+                ],
+                "name": "Post Malone",
+                "popularity": 95,
+                "type": "artist",
+                "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 294526
+                },
+                "genres": [
+                    "edm",
+                    "electropop",
+                    "jamtronica",
+                    "jazztronica",
+                    "livetronica"
+                ],
+                "href": "https://api.spotify.com/v1/artists/25oLRSUjJk4YHNUsQXk7Ut",
+                "id": "25oLRSUjJk4YHNUsQXk7Ut",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/47303c456bd258179a83ccdd52a0ab95421f628a",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/aaf49aff862a5f124bfffa78fe2c313e87042fb9",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/1a54def9b5f56aad2c41dfb43d309d14030c2b4e",
+                        "width": 160
+                    }
+                ],
+                "name": "GRiZ",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:25oLRSUjJk4YHNUsQXk7Ut"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 263613
+                },
+                "genres": [
+                    "bass trap",
+                    "brostep",
+                    "edm",
+                    "electro house",
+                    "electronic trap",
+                    "mashup"
+                ],
+                "href": "https://api.spotify.com/v1/artists/2FmzVitXZjIkFolH8HXd4j",
+                "id": "2FmzVitXZjIkFolH8HXd4j",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ba47a2dc1a460dcdd0e8e98fb619f4ae9df8104c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/0b33a026ca3ee9556afc05dd7607249675b1dd79",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/da961736b8d96f2f306b1d7a8307e70fc8221a58",
+                        "width": 160
+                    }
+                ],
+                "name": "Flosstradamus",
+                "popularity": 59,
+                "type": "artist",
+                "uri": "spotify:artist:2FmzVitXZjIkFolH8HXd4j"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 260763
+                },
+                "genres": [
+                    "big room",
+                    "deep big room",
+                    "edm",
+                    "electro house",
+                    "future house",
+                    "house",
+                    "pop",
+                    "pop edm",
+                    "tropical house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/3IpvVrP3VLhruTmnququq7",
+                "id": "3IpvVrP3VLhruTmnququq7",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/673913702289099037f91f934344cea311385a55",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/45a92406736d66439b357f41d63e083a21c6b169",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/d3ff13e4a770462c89579106cdd7939e4cd5f2f6",
+                        "width": 160
+                    }
+                ],
+                "name": "Mike Williams",
+                "popularity": 72,
+                "type": "artist",
+                "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 89493
+                },
+                "genres": [
+                    "edm",
+                    "pop edm",
+                    "tropical house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/44Ewva5aHOX00EwaX2D2mh",
+                "id": "44Ewva5aHOX00EwaX2D2mh",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/d1174f297faca23cc13900383055cec9f9776506",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/85fb9aee65845be30117ac2a2e1c34c8364d092f",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/1a61ca7e6afa727e891c26720d8c7b188e08825c",
+                        "width": 160
+                    }
+                ],
+                "name": "Two Friends",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:44Ewva5aHOX00EwaX2D2mh"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 174255
+                },
+                "genres": [
+                    "edm",
+                    "electropop",
+                    "melodic dubstep",
+                    "pop edm"
+                ],
+                "href": "https://api.spotify.com/v1/artists/4LZ4De2MoO3lP6QaNCfvcu",
+                "id": "4LZ4De2MoO3lP6QaNCfvcu",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/e441da55edc98fc84f34daa91700c7654fea2153",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/21e337ef50e90a3df0f604fcec06f43ada85f303",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/bfc5610dc686219ab8eec76353cb3963bdc131e5",
+                        "width": 160
+                    }
+                ],
+                "name": "Said the Sky",
+                "popularity": 66,
+                "type": "artist",
+                "uri": "spotify:artist:4LZ4De2MoO3lP6QaNCfvcu"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 23456
+                },
+                "genres": [
+                    "indie cafe pop",
+                    "swedish pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5FjiYgLczmrP2j1gijAGWp",
+                "id": "5FjiYgLczmrP2j1gijAGWp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/1365259483b54e0cac717535462edcf248f94479",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/92d9bd1ef51e0cb6939107a76025a00ae9590ce5",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/f5d203dd9d6fb9a13a90a7a01c72c6878e41c399",
+                        "width": 160
+                    }
+                ],
+                "name": "Paul Rey",
+                "popularity": 58,
+                "type": "artist",
+                "uri": "spotify:artist:5FjiYgLczmrP2j1gijAGWp"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 2266896
+                },
+                "genres": [
+                    "bmore",
+                    "edm",
+                    "moombahton",
+                    "ninja",
+                    "pop"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5fMUXHkw8R8eOP2RNVYEZX",
+                "id": "5fMUXHkw8R8eOP2RNVYEZX",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/72783f9135e197d828a8652bbf73eee3b408e380",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/ab13d3a6e417efce69663abd72e568816cba01fb",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/7104e6f6bbfaf7d3bed579870e65917dd43f1f4e",
+                        "width": 160
+                    }
+                ],
+                "name": "Diplo",
+                "popularity": 88,
+                "type": "artist",
+                "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5otbsJYLeabtEzFiCUw6lT"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 40677
+                },
+                "genres": [
+                    "bass trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5otbsJYLeabtEzFiCUw6lT",
+                "id": "5otbsJYLeabtEzFiCUw6lT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731f1dc44fca836abc3064dc26",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021f1dc44fca836abc3064dc26",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511f1dc44fca836abc3064dc26",
+                        "width": 64
+                    }
+                ],
+                "name": "Tha Trickaz",
+                "popularity": 42,
+                "type": "artist",
+                "uri": "spotify:artist:5otbsJYLeabtEzFiCUw6lT"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 332949
+                },
+                "genres": [
+                    "big room",
+                    "dance pop",
+                    "edm",
+                    "electro house",
+                    "pop",
+                    "pop edm",
+                    "tropical house"
+                ],
+                "href": "https://api.spotify.com/v1/artists/5wwneIFdawNgQ7GvKK29Z3",
+                "id": "5wwneIFdawNgQ7GvKK29Z3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/728781546e0f341d6efe3b965599e66191e39bcb",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/41328e2a8109c097245fefb997bc5f6c18970ba0",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/839d7b6340781482cf8c0cfa15eeac1eb84cbb4a",
+                        "width": 160
+                    }
+                ],
+                "name": "Lucas & Steve",
+                "popularity": 74,
+                "type": "artist",
+                "uri": "spotify:artist:5wwneIFdawNgQ7GvKK29Z3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 17126
+                },
+                "genres": [
+                    "electropop",
+                    "pop edm",
+                    "vapor twitch"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6kyUfziWP8ydAsKzyXsC83",
+                "id": "6kyUfziWP8ydAsKzyXsC83",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/4486d57588228a9f8c8fea8fdc0c3b0e48c5c203",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/13a468cebfd1f9d888055967cbee15d49c3d425a",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/c517e500803a26ebfde93dd53a5aa4d3274f68a0",
+                        "width": 160
+                    }
+                ],
+                "name": "StayLoose",
+                "popularity": 54,
+                "type": "artist",
+                "uri": "spotify:artist:6kyUfziWP8ydAsKzyXsC83"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 10527937
+                },
+                "genres": [
+                    "atl hip hop",
+                    "hip hop",
+                    "pop rap",
+                    "rap",
+                    "southern hip hop",
+                    "trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/6oMuImdp5ZcFhWP0ESe6mG",
+                "id": "6oMuImdp5ZcFhWP0ESe6mG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ba2d3bfa4c427f1a12ec667f4138bb5d3ecd661c",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/c2a5142e43a9ac21bce1b0106b276ec60d4fc4f8",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/3ec6d96d15df60ed1a7333c218fa26376d93d8db",
+                        "width": 160
+                    }
+                ],
+                "name": "Migos",
+                "popularity": 85,
+                "type": "artist",
+                "uri": "spotify:artist:6oMuImdp5ZcFhWP0ESe6mG"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 24937
+                },
+                "genres": [
+                    "brostep",
+                    "electronic trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7kHe4uFK1KQFqMRP7td4mS",
+                "id": "7kHe4uFK1KQFqMRP7td4mS",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/13ce42cf7dd32d22a38cb408bd863e457d5ae47b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/540907a286eb42f77f6530cc013dbb530cba20d7",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/daadaabcfa547af61375eaabd3f87b666c90db34",
+                        "width": 160
+                    }
+                ],
+                "name": "Bad Royale",
+                "popularity": 48,
+                "type": "artist",
+                "uri": "spotify:artist:7kHe4uFK1KQFqMRP7td4mS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 204345
+                },
+                "genres": [
+                    "edm",
+                    "electronic trap",
+                    "electropop",
+                    "indietronica"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7o7mC95EDbJKTcPAAs8C3r",
+                "id": "7o7mC95EDbJKTcPAAs8C3r",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/a5da49c0d0ae307128a21514f0e2cd832b174e9b",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/f7e593ee3bceda62a30a21436c1ee1cd1785968c",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/78387889f8fee9416117ec7ef666ff18c63a62a1",
+                        "width": 160
+                    }
+                ],
+                "name": "Big Gigantic",
+                "popularity": 64,
+                "type": "artist",
+                "uri": "spotify:artist:7o7mC95EDbJKTcPAAs8C3r"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+                },
+                "followers": {
+                    "href": null,
+                    "total": 31536
+                },
+                "genres": [
+                    "bass trap"
+                ],
+                "href": "https://api.spotify.com/v1/artists/7vUJCRmF1if4uhMp2V3tRP",
+                "id": "7vUJCRmF1if4uhMp2V3tRP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/c0443516423ffa0852ed2b8a1a84a02b5d50a525",
+                        "width": 640
+                    },
+                    {
+                        "height": 320,
+                        "url": "https://i.scdn.co/image/33c322d04e1dcd4841d0d615b5c5e6ce78f96fe6",
+                        "width": 320
+                    },
+                    {
+                        "height": 160,
+                        "url": "https://i.scdn.co/image/ab14f70b744a96a8ba2784f1e1e46760b36c8a36",
+                        "width": 160
+                    }
+                ],
+                "name": "Arman Cekin",
+                "popularity": 54,
+                "type": "artist",
+                "uri": "spotify:artist:7vUJCRmF1if4uhMp2V3tRP"
+            }
+        ],
+        "next": null,
+        "total": 19,
+        "cursors": {
+            "after": null
+        },
+        "limit": 20,
+        "href": "https://api.spotify.com/v1/me/following?type=artist&limit=20"
+    }
+}
